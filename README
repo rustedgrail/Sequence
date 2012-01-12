@@ -1,0 +1,1 @@
+This is my infinite sequence, built in CoffeeScript, just require('sequence.coffee').Sequence.  The constructor takes a function that is used to build the sequence.  Take and takeWhile will pass arguments to your sequence in an array, but you are responsible for tracking state.  Look at the tests if you want examples of useage..
